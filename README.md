@@ -12,6 +12,9 @@
 - 🌱 Aprendendo Ciência da Computação;
 - 📫 Pode entrar em contato comigo pelo email: maiara.veras@gmail.com
 
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
 <!--
 **MaiBV/MaiBV** é um repositório ✨ _especial_ ✨ porque o seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
