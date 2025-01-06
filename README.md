@@ -1,6 +1,8 @@
 ## Olá! Esse é o meu Mundo!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiBV&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiBV&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaiBV&theme=dark)
 
 <!--
 **MaiBV/MaiBV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
