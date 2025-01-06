@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- Texto dinâmico -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fantasque-sans+Mono&pause=1000&color=0099ff&center=true&vCenter=true&width=435&lines=E+esse+é+meu+Mundo!" alt="Typing SVG" style="width: 100%;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fantasque-sans+Mono&pause=1000&color=0099ff&center=true&vCenter=true&width=435&lines=Esse+é+meu+Mundo!" alt="Typing SVG" style="width: 100%;">
 
   <br>
 
