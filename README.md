@@ -12,6 +12,7 @@
 - 🌱 Aprendendo Ciência da Computação;
 - 📫 Pode entrar em contato comigo pelo email: maiara.veras@gmail.com
 
+  />
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
