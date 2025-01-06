@@ -3,7 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Maiara+Véras!;" />
 </h1>
 
-## E esse é o meu Mundo!
+<div align="center">
+
+  <!-- Texto dinâmico -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fantasque-sans+Mono&pause=1000&color=0099ff&center=true&vCenter=true&width=435&lines=E-esse+é+meu+Mundo!" alt="Typing SVG" style="width: 100%;">
+
+  <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiBV&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiBV&layout=compact&theme=dark)
