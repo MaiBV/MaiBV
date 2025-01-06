@@ -3,6 +3,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiBV&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiBV&layout=compact&theme=dark)
 
+- 🔭 Estou trabalhando como estagiária na GFT Technologies;
+- 🌱 Aprendendo Ciência da Computação;
+- 📫 Pode entrar em contato comigo pelo email: maiara.veras@gmail.com
+
 <!--
 **MaiBV/MaiBV** é um repositório ✨ _especial_ ✨ porque o seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
